@@ -1,0 +1,6 @@
+{
+  "name": "TeenBite: Nutrición & Swaps Saludables",
+  "description": "Guía interactiva para adolescentes para combatir la comida chatarra y excesos en grasa, con comparador de reemplazos deliciosos, desafíos arcade y coach inteligente.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
